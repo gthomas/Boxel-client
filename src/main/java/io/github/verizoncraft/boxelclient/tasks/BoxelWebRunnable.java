@@ -72,7 +72,7 @@ public class BoxelWebRunnable {
                                                             });
 
                                                 }
-                                            });;
+                                            });
                                         }
                                     }, new Action1<Throwable>() {
                                         @Override
